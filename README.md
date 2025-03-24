@@ -1,4 +1,4 @@
-# MCT-Template
+# Template for MATLAB Community Toolboxes
 
 Minimalist [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) 
 with replicable core files suited for most repositories. Its structure and 
