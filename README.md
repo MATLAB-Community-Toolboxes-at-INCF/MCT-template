@@ -8,3 +8,7 @@ content follows the best practices for toolbox organization as described in the
 community-adapted [MathWorks Toolbox Best Practices](https://github.com/MATLAB-Community-Toolboxes-at-INCF/toolboxdesign).
 
 (N.B.: The images are included only to illustrate the best practice of adding images to the README.md.)
+
+## Project creation to-dos
+
+- [ ] [Add a license](https://github.com/MATLAB-Community-Toolboxes-at-INCF/MCT-template/community/license/new?branch=main).https://choosealicense.com can also guide you to select the most suitable for the project.
