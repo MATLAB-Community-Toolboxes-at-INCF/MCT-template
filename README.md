@@ -11,4 +11,5 @@ community-adapted [MathWorks Toolbox Best Practices](https://github.com/MATLAB-C
 
 ## Project creation to-dos
 
-- [ ] [Add a license](https://github.com/MATLAB-Community-Toolboxes-at-INCF/MCT-template/community/license/new?branch=main).https://choosealicense.com can also guide you to select the most suitable for the project.
+- [ ] [Add a license](https://github.com/MATLAB-Community-Toolboxes-at-INCF/MCT-template/community/license/new?branch=main).
+  You can also check out https://choosealicense.com for the license most suitable for the project.
